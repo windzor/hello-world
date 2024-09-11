@@ -1,2 +1,2 @@
 # hello-world
-python github actions demo
+Git Hub Action sample, docker image creation
